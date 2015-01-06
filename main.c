@@ -109,6 +109,7 @@ void wypisanie() {
 void dodawanie()
 {
     char napis[25];
+    int dupa;
     int liczba;
     struct osoba *aktualny,*nowy;
     nowy = (struct osoba *)malloc(sizeof(struct osoba));
