@@ -1,0 +1,30 @@
+Anakonda,Maciek,Andrzej,Warszawa,Gorczewska,20,50,909727345
+Bocian,Michal,Przemyslaw,Gdansk,Niska,67,14,987423687
+Brat,Sylwester,Wielki,Londyn,Downingstreet,123,876,657883219
+Cepluuus,Edward,Edmund,Procesor,Pamieciowa,1,11,123438654
+Cypsalbozyps,Mariusz, ,Zwolen,Zwolenska,2,8,755483921
+Czapla,Andrzej, ,Gdynia,Wysoka,14,57,624759321
+Daszczuk,Wiktor,Boromir,Turing City,Bogosort,123,13,700997112
+Dudek,Anna,Maria,Poznan,Gleboka,45,28,758412569
+Forc,Mateusz,Adam,Warszawa,Warynskiego,12,806,123456789
+Flaming,Aneta,Kazimiera,Wroclaw,Plytka,47,32,785469528
+Gil,Mateusz, ,Krakow,Jasna,1,47,587426598
+Goku,Son, ,Vegeta,Marchewkowa,2,3,775849203
+Gregorovicius,Jan,Maria,Klajpeda,Baras,5,9,700880717
+Ibis,Tomasz,Piotr,Opole,Ciemna,23,101,458759861
+Jastrzab,Pawel,Michal,Lublin,Pomaranczowa,2,38,365874126
+Kawka,Kazimierz,Maria,Kielce,Miodowa,79,41,526847415
+Kimono,Franek, ,Warszawa,Nowowiejska,15,19,927364981
+Komputer,Adam, ,Radom,Warszawska,13,13,700997112
+Kos,Agata,Wislawa,Koszalin,Czekoladowa,52,99,235874598
+Lewicki,Solidariusz,Anteniusz,Warszawa,Wiejska,12,1,345548921
+Okola,Wieslawa,Grazyna,Kobylka,Gorna,54,25,984561358
+Pawlak,Lech,Roch,Opole,Zelipapa,19,2,156738290
+Raczek,Jan, ,Krakow,Mala,98,54,657489354
+Schwarzmannwa,Kamil, ,Zgorzelec,Kurvenstrasse,3,45,198955551
+Shepard,Komandor, ,Przestrzen,Kosmiczna,8,11,754899012
+Sprzedawca,Miroslaw,Komis,Sosnowiec,Handlowa,2,67,885940234
+Tegidrag,Mateusz, ,Dragow,Tepa,6,2,847592123
+Tichy,Ijon, ,Kosmos,Ziemia,999,997,398762291
+Tumiwisicki,Marek,Szczepan,Pjongjang,Kimirsena,145,30,983574534
+Wazelina,Ludwik,Henryk,Paryz,Polska,41,17,677584921
